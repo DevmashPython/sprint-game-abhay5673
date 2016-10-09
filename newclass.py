@@ -59,7 +59,8 @@ while(1):
 time_elapsed=time.time()-s_time
 print "time elapsed,"+str(time_elapsed)
 
-
-
-
-
+'''
+1. Mention controls for the game.
+2. Mention when to turn right and when to turn down.
+3. The game should be lost on pressing the wrong key.
+'''
